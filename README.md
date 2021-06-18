@@ -1,1 +1,1 @@
-# simple-Laravel6-Crud-
+# simple-Laravel6-Crud
